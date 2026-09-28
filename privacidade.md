@@ -1,8 +1,8 @@
 # Política de privacidade
 
-Vale para as extensões do Chrome **Downloads arrastáveis**, **Salvar post do Instagram** e **Salvar post do LinkedIn**, publicadas na Chrome Web Store.
+Vale para as extensões do Chrome **Downloads arrastáveis** e **Salvar post**, publicadas na Chrome Web Store.
 
-Última atualização: 27/09/2026.
+Última atualização: 28/09/2026.
 
 ## Resumo
 
@@ -11,8 +11,7 @@ Nenhuma delas coleta, guarda em servidor, vende ou envia a alguém os dados de q
 ## O que cada extensão lê, e para quê
 
 - **Downloads arrastáveis** lê a lista de downloads do Chrome para mostrar os recentes no painel do Windows (o ajudante instalado à parte). Quando você clica na lixeira de um arquivo, ela confere no Chrome que é um download concluído e o manda para a Lixeira do Windows. O ajudante não acessa a internet.
-- **Salvar post do Instagram** lê o post que você pede para salvar, pela própria página do Instagram e com a sua sessão, e grava a legenda, as fotos e os vídeos na sua pasta de downloads. Guarda no Chrome só a pasta escolhida nas opções e o caminho do último post salvo.
-- **Salvar post do LinkedIn** lê o post que está na tela quando você abre o painel e baixa as mídias direto dos servidores do LinkedIn, sem enviar seus cookies. Grava na pasta que você escolheu e guarda no Chrome só a indicação dessa pasta.
+- **Salvar post** lê o post que você pede para salvar (no Instagram, no LinkedIn, no TikTok ou no Facebook) pela própria página da rede, com a sua sessão, e grava o texto, as fotos, os vídeos e a legenda na sua pasta de downloads. No Facebook, quando o feed mostrou só a foto pequena, pode abrir a página da foto numa aba em segundo plano por alguns segundos, para pegar a original. Guarda no Chrome só a pasta escolhida nas opções e o caminho do último post salvo.
 
 ## O que não fazem
 
