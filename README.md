@@ -1,6 +1,6 @@
 # Extensões para o Chrome
 
-Página de apoio das extensões **Downloads arrastáveis** e **Salvar post** (Instagram, LinkedIn, TikTok e Facebook).
+Página de apoio das extensões **Downloads arrastáveis** e **Salvar post** (Instagram, LinkedIn, TikTok, Facebook e Reddit).
 
 - [Instalar o Salvar post pela Chrome Web Store](https://chromewebstore.google.com/detail/dhfopffmhcalofcpjeeimfbfajjnkjdi)
 - [Política de privacidade](privacidade.md)
